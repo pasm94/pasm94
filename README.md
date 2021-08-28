@@ -10,7 +10,7 @@ Of course, my favorite part is bringing together programming and product creatio
 
 Looking forward to the return of in-person events. :P
 
-💬 Feel free to call me anytime to chat! I will always answer you here on Linkedin.
+💬 Feel free to call me anytime to chat! I will always answer you on Linkedin. 🠉
 
 📚 Learning functional programming with Elixir, and enjoying it a lot!
 
