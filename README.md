@@ -6,7 +6,6 @@ I'm a software developer passionate about knowledge, code, best practices, and c
 I also have a great interest in products, especially those built with technology. Planning, implementation, and impact on the end customer.  
 Of course, my favorite part is bringing together programming and product creation, to build amazing things for people and the world.
 
-Looking forward to the return of in-person events. :P
 
 💬 Feel free to call me anytime to chat! I will always answer you on Linkedin. 🠉  
 📚 Learning functional programming with Elixir, and enjoying it a lot!  
