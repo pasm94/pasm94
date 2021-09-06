@@ -1,6 +1,6 @@
 ## Hey, I'm Paulo A. S. Müller 👋
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/paulo-alberto-stein-m%C3%BCller/)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/pauloasmuller/)
 
 I'm a software developer passionate about knowledge, code, best practices, and creating quality solutions.  
 I also have a great interest in products, especially those built with technology. Planning, implementation, and impact on the end customer.  
