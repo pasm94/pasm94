@@ -8,7 +8,7 @@ Of course, my favorite part is bringing together programming and product creatio
 
 
 💬 Feel free to call me anytime to chat! I will always answer you on Linkedin. 🠉  
-📚 Learning functional programming with Elixir, and enjoying it a lot!  
+📚 Elixir and Node.js
 🎓 Major in mathematics from Unisinos  
 💻 Software developer at Monuv
 
