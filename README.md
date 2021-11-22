@@ -7,7 +7,7 @@ I also have a great interest in products, especially those built with technology
 Of course, my favorite part is bringing together programming and product creation, to build amazing things for people and the world.
 
 
-💬 Feel free to call me anytime to chat! I will always answer you on Linkedin. 🠉  
+💬 Feel free to call me anytime to chat! I will always answer you on Linkedin.
 📚 Elixir and Node.js
 🎓 Major in mathematics from Unisinos  
 💻 Software developer at Monuv
