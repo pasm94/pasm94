@@ -10,7 +10,7 @@ Of course, my favorite part is bringing together programming and product creatio
 💬 Feel free to call me anytime to chat! I will always answer you on Linkedin. </br>
 📚 Elixir lang</br>
 🎓 Major in mathematics from Unisinos </br> 
-💻 Software developer at DWV App </br>
+
 
 <!--
 **pasm94/pasm94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
